@@ -1,0 +1,116 @@
+.contacto{
+    height: 600px;
+    min-width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+.parte-izq-con{
+    height: 100%;
+    min-width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.imagen-laptop{
+    height: 250px;
+    width: 600px;
+}
+
+.img-contacto{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    margin-top: -3.5rem;
+}
+
+.datos-contacto{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5rem;
+    
+}
+
+.inputs{
+    display: flex;
+    align-self: flex-start;
+    margin-left: 20px;
+}
+
+
+textarea{
+    height: 75px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.titulo-contacto{
+    font-size: 50px;
+    margin-right: 290px;
+}
+
+
+.boton-enviar{
+    border: #5227CC;
+    border-radius: 20px;
+    background-color: #5227CC;
+    color: white;
+    font-family: DM Sans;
+    padding: 5px 15px 5px 15px;
+    width: 5vw;
+    margin-top: 30px;
+    margin-right: 290px;
+}
+
+.input-chico{
+    width: 15vw;
+    border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.texto-dato{
+    margin-right: 20px;
+}
+
+
+.p-texto-dato{
+    margin-bottom:-2px ;
+}
+
+
+footer{
+    background-color: #7749f8;
+    display: flex;
+    color: white;
+    height: 200px;
+    width: 100%;
+}
+
+.redes{
+    margin-left: 50vw;
+}
+
+.footer-list{
+    list-style: none;
+}
+
+.logo-blanco{
+    margin-left: 10rem;
+    margin-top: 1.5rem;
+}
+
+.para-bordes{
+    display: flex;
+    margin-top: 5px;
+    height: 80%;
+    width: 100%;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    align-items: flex-start;
+}

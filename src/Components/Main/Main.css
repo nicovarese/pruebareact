@@ -1,0 +1,143 @@
+.soluciones{
+    background-color: #1c78fd;
+    width: 100%;
+    height: 700px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.parte-arriba{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.parte-abajo{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+.texto-emp{
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+
+.texto-org{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.img-soluciones-emp{
+    height: 250px;
+    width: 600px;
+    margin-right: 120px;
+}
+.img-soluciones-org{
+    height: 250px;
+    width: 600px;
+    margin-left: 120px;
+}
+
+.img-sol-org{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.img-sol-emp{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.oportunidades{
+    height: 600px;
+    text-align: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.texto-oportunidades{
+    margin-top: 3rem;
+}
+
+.cuatro-cuadros{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    
+}
+
+.cuadritos-vol{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    background-color: #dc3545;
+    color: white;
+    border: solid #dc3545;
+    border-radius: 1rem;
+    margin: 0 10px 0 10px;
+
+}
+.cuadritos-don{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    background-color: #ff9c07;
+    color: white;
+    border: solid #ff9c07;
+    border-radius: 1rem;
+    margin: 0 10px 0 10px;
+}
+.cuadritos-rec{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    background-color: #28a745;
+    color: white;
+    border: solid #28a745;
+    border-radius: 1rem;
+    margin: 0 10px 0 10px;
+}
+.cuadritos-llam{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    background-color: #17a2b8;
+    color: white;
+    border: solid #17a2b8;
+    border-radius: 1rem;
+    margin: 0 10px 0 10px;
+}
+
+.p-cuadrado{
+    font-size: 30px;
+    
+}
+.p-cuadrado-abajo{
+    font-size: 30px;
+    margin: -2rem 
+}
+
+.logos-cuadrados{
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.texto-cuadraditos{
+    margin-right: 5rem;
+}

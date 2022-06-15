@@ -1,0 +1,148 @@
+.noticias{
+    background-color: #1c78fd;
+    width: 100%;
+    height: 700px;
+    color: white;
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+}
+
+.titulo-noticias{
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+.tit-not{
+    height: 25%;
+    text-align: center;
+}
+
+h6{
+    margin-top: -30px;
+}
+
+a{
+    color: white;
+}
+
+.cuadros-noticias{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cuad-not-1{
+    min-width: 250px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+.cuad-not-2{
+    min-width: 250px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+.cuad-not-3{
+    min-width: 250px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+.cuad-not-4{
+    min-width: 250px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+
+.cuad-img-not{
+    height: 40%;
+    border-radius: 5px;
+}
+
+.imagen-noticia{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.text-not{
+    height: 60%;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ico-not{
+    color: black;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.art-noticia{
+    width: 100%;
+    color: black;
+    margin: 10px;
+}
+
+h3{
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+.parrafo-art{
+    font-size: smaller;
+    margin-right: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+.calendario{
+    margin-left: 10px;
+}
+
+.reloj{
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.tiempo-not{
+    margin-right: 10px;
+}
+
+.ver-mas{
+    display: flex;
+    min-width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    height: 10%;
+}
+
+.flecha{
+    margin-right: 15px;
+    
+}
+.mas-info{
+    margin-right: 30px;
+    
+}
