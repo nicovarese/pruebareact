@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
+
+.logo{
+    height: 20px;
+    margin-left: 100px;
+}
+
+
+
+.header-list{
+    display: flex;
+    margin-left: 5%;
+    list-style: none;
+}
+
+li{
+    margin: 0px 45px 0px 45px;
+}
+
+.header-button{
+    border: #5227CC;
+    border-radius: 20px;
+    background-color: #5227CC;
+    color: white;
+    font-family: DM Sans;
+    padding: 5px 15px 5px 15px;
+    margin-left: auto;
+    margin-right: 2rem;
+}
